@@ -422,5 +422,6 @@ __all__ = [
     "XDC",
     "ZCL",
     "ZEC", "ZECTEST",
+    "TEAT", "TEATTEST",
     "ZEN"
 ]
